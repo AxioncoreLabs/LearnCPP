@@ -1,6 +1,6 @@
 # Ch 0 — 教程介绍
 
-- 状态：[~] 进行中
+- 状态：[Done] 已完成
 - 官网：https://www.learncpp.com/cpp-tutorial/chapter-0-content/
 
 ## 要点

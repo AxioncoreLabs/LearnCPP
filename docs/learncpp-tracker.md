@@ -47,4 +47,5 @@ Ch 23+ 需要时复制 `docs/notes/ch22-vectors.md` 改文件名即可。
 
 | 日期 | 章节 | 说明 |
 |------|------|------|
-| 2026-07-02 | Ch 0.2 | 见 [ch00-intro.md](notes/ch00-intro.md) |
+| 2026-07-02 | Ch 0 | 见 [ch00-intro.md](notes/ch00-intro.md) |
+| 2026-07-03 | Ch 1 | 见 [ch01-cpp-intro.md](notes/ch01-cpp-intro.md) |
