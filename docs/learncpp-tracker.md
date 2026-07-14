@@ -6,10 +6,10 @@
 
 | 状态 | 章 | 主题 | 笔记 |
 |------|-----|------|------|
-| [~] | 0 | 介绍 | [ch00-intro.md](notes/ch00-intro.md) |
-| [ ] | 1 | C++ 介绍 | [ch01-cpp-intro.md](notes/ch01-cpp-intro.md) |
-| [ ] | 2 | 函数与文件 | [ch02-functions.md](notes/ch02-functions.md) |
-| [ ] | 3 | 调试 | [ch03-debugging.md](notes/ch03-debugging.md) |
+| [Done] | 0 | 介绍 | [ch00-intro.md](notes/ch00-intro.md) |
+| [Done] | 1 | C++ 介绍 | [ch01-cpp-intro.md](notes/ch01-cpp-intro.md) |
+| [Done] | 2 | 函数与文件 | [ch02-functions.md](notes/ch02-functions.md) |
+| [Done] | 3 | 调试 | [ch03-debugging.md](notes/ch03-debugging.md) |
 | [ ] | 4 | 基本数据类型 | [ch04-data-types.md](notes/ch04-data-types.md) |
 | [ ] | 5 | 运算符 | [ch05-operators.md](notes/ch05-operators.md) |
 | [ ] | 6 | 作用域 | [ch06-scope.md](notes/ch06-scope.md) |
@@ -47,5 +47,7 @@ Ch 23+ 需要时复制 `docs/notes/ch22-vectors.md` 改文件名即可。
 
 | 日期 | 章节 | 说明 |
 |------|------|------|
-| 2026-07-02 | Ch 0 | 见 [ch00-intro.md](notes/ch00-intro.md) |
-| 2026-07-03 | Ch 1 | 见 [ch01-cpp-intro.md](notes/ch01-cpp-intro.md) |
+| 2026-07-02 | Ch 0 | [介绍](notes/ch00-intro.md) |
+| 2026-07-03 | Ch 1 | [C++ 介绍](notes/ch01-cpp-intro.md) |
+| 2026-07-07 | Ch 2 | [函数与文件](notes/ch02-functions.md) |
+| 2026-07-14 | Ch 3 | [调试](notes/ch03-debugging.md) |

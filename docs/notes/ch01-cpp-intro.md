@@ -1,6 +1,6 @@
 # Ch 1 — Statements and the structure of a program
 
-- 状态：[~] 进行中
+- 状态：[Done] 已完成
 - 官网：https://www.learncpp.com/cpp-tutorial/statements-and-the-structure-of-a-program/
 
 ## 要点
