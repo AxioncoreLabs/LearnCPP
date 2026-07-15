@@ -14,6 +14,16 @@ C++ supports two different kinds of constants:
 - **Named constants** are constant values that are associated with an identifier. These are also sometimes called symbolic constants.
 - **Literal constants** are constant values that are not associated with an identifier.
 
+#### Types of named constants
+
+There are three ways to define a named constant in C++:
+
+1. Constant variables
+2. Object-like macros with substitution text
+3. Enumerated constants
+
+
+
 ## 代码
 
 ## 习题
