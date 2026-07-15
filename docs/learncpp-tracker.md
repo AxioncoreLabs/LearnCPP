@@ -10,8 +10,8 @@
 | [Done] | 1 | C++ 介绍 | [ch01-cpp-intro.md](notes/ch01-cpp-intro.md) |
 | [Done] | 2 | 函数与文件 | [ch02-functions.md](notes/ch02-functions.md) |
 | [Done] | 3 | 调试 | [ch03-debugging.md](notes/ch03-debugging.md) |
-| [ ] | 4 | 基本数据类型 | [ch04-data-types.md](notes/ch04-data-types.md) |
-| [ ] | 5 | 运算符 | [ch05-operators.md](notes/ch05-operators.md) |
+| [Done] | 4 | 基本数据类型 | [ch04-data-types.md](notes/ch04-data-types.md) |
+| [~] | 5 | 运算符 | [ch05-operators.md](notes/ch05-operators.md) |
 | [ ] | 6 | 作用域 | [ch06-scope.md](notes/ch06-scope.md) |
 | [ ] | 7 | 控制流 | [ch07-control-flow.md](notes/ch07-control-flow.md) |
 | [ ] | 8 | 类型转换与 const | [ch08-conversions-const.md](notes/ch08-conversions-const.md) |
@@ -51,3 +51,5 @@ Ch 23+ 需要时复制 `docs/notes/ch22-vectors.md` 改文件名即可。
 | 2026-07-03 | Ch 1 | [C++ 介绍](notes/ch01-cpp-intro.md) |
 | 2026-07-07 | Ch 2 | [函数与文件](notes/ch02-functions.md) |
 | 2026-07-14 | Ch 3 | [调试](notes/ch03-debugging.md) |
+| 2026-07-15 | Ch 4 | [基本数据类型](notes/ch04-data-types.md) |
+| 2026-07-15 | Ch 5 | [运算符](notes/ch05-operators.md) |
